@@ -1,0 +1,2 @@
+# MFCincludeSOUI
+主要是包含了如何在MFC中使用SOUI的窗口过程，例子比较简单；主要是要注意包含SOUI资源在MFC工程中以及对应的rc文件的编写；
